@@ -14,4 +14,4 @@ var myVar = "AiJono says 'hey'!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
-- [ ] Finish this module
+- [x] Finish this module
