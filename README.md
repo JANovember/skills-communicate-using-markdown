@@ -7,7 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+## Communicate using Markdown
+##### learning to add / change headers
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
